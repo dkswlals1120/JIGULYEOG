@@ -7,21 +7,21 @@
 ### 담당업무
 팀원 - 디비 설계및 구축 / 청원 게시판 / 함께 해요 게시판 / UI구현 / gitHub협업
 
-#### 사용 언어 및 IDE
+### 사용 언어 및 IDE
 java 8,JavaScript,jQuery,JSP,HTML5,CSS,Eclipse
 
-#### Framework
+### Framework
 Spring, bootstrap ,myBatis
 
-#### DBMS
+### DBMS
 Oracle - SQL developer
 
-#### OS
+### OS
 Windows OS
 
-#### configuration management
+### configuration management
 GIt/Github
 
-#### Server
+### Server
 Apache Tomcat v9.0
 
