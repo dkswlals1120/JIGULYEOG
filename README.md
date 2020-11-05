@@ -5,23 +5,23 @@
 + 프로젝트 소개 : 참여형 환경 후원 온라인 플랫폼
 
 ### 담당업무
-팀원 - 디비 설계및 구축 / 청원 게시판 / 함께 해요 게시판 / UI구현 / gitHub협업
++ 팀원 - 디비 설계및 구축 / 청원 게시판 / 함께 해요 게시판 / UI구현 / gitHub협업
 
 ### 사용 언어 및 IDE
-java 8,JavaScript,jQuery,JSP,HTML5,CSS,Eclipse
++ java 8,JavaScript,jQuery,JSP,HTML5,CSS,Eclipse
 
 ### Framework
-Spring, bootstrap ,myBatis
++ Spring, bootstrap ,myBatis
 
 ### DBMS
-Oracle - SQL developer
++ Oracle - SQL developer
 
 ### OS
-Windows OS
++ Windows OS
 
 ### configuration management
-GIt/Github
++ GIt/Github
 
 ### Server
-Apache Tomcat v9.0
++ Apache Tomcat v9.0
 
